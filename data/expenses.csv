@@ -1,0 +1,37 @@
+﻿date,category,amount,description
+2026-01-01,Food,250,Lunch
+2026-01-02,Transport,120,Bus fare
+2026-01-03,Groceries,1800,Supermarket
+2026-01-05,Entertainment,500,Movie
+2026-01-07,Rent,8000,January Rent
+2026-01-10,Food,300,Dinner
+2026-01-12,Utilities,1500,Electricity Bill
+2026-01-15,Shopping,2200,Clothes
+2026-01-18,Transport,400,Petrol
+2026-01-22,Food,280,Lunch
+2026-01-25,Internet,799,Broadband Bill
+2026-01-28,Healthcare,1200,Medical
+2026-02-01,Food,260,Lunch
+2026-02-03,Groceries,2000,Supermarket
+2026-02-05,Transport,150,Metro
+2026-02-07,Rent,8000,February Rent
+2026-02-09,Entertainment,700,Concert
+2026-02-12,Utilities,1400,Water Bill
+2026-02-15,Shopping,1800,Shoes
+2026-02-18,Food,320,Dinner
+2026-02-20,Transport,450,Petrol
+2026-02-23,Internet,799,Broadband Bill
+2026-02-25,Healthcare,900,Pharmacy
+2026-02-28,Food,290,Lunch
+2026-03-01,Food,270,Lunch
+2026-03-02,Groceries,2100,Supermarket
+2026-03-04,Transport,200,Bus
+2026-03-07,Rent,8000,March Rent
+2026-03-09,Entertainment,600,Streaming Subscription
+2026-03-12,Utilities,1600,Electricity Bill
+2026-03-15,Shopping,2500,Gadgets
+2026-03-18,Food,350,Dinner
+2026-03-20,Transport,500,Petrol
+2026-03-22,Internet,799,Broadband Bill
+2026-03-25,Healthcare,1100,Doctor Visit
+2026-03-29,Food,310,Lunch
